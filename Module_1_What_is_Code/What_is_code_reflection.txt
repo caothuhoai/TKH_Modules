@@ -1,0 +1,9 @@
+When I press a letter on a keyboard, the computer receives a signal from the keyboard, which is a code that computer understands. It then uses the code to look for an image of the letter in its memory and finally, displays the image on the screen.
+
+Software products are essentially “infinitely reproducible nothings” because they are basically nothing. Software products are built and run on computer. It does not require physical materials and can be fixed and reused infinitely. Despite the fact, software products can make more profit than any other physical products we have seen so far and will be even more dominant in the future where everything will be computerized.
+
+You write code to communicate with machines and tell them what to do.  However, the “language” needs to be further broken down before it gets executed. A compiler will turn your code into smaller instructions (as small as a simple math operation like addition or subtraction, which takes, theoretically, one clock to be done) that can be carried out; and that is a software.
+
+Algorithms are method, functions or software used to carry out tasks. A good algorithm will solve a problem in the fastest way possible. It depends on the way use code to find the shortcut to the answer. Algorithms are reusable and updated constantly for the sake of increasing efficiency, saving time and convenience.
+
+DRY principle stands for “Don’t Repeat Yourself”. Your code should be reusable to do the same tasks. The computer should repeat itself if needed, not programmers. This principle saves you time and make your code more organized – easier to debug and update later on.
